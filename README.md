@@ -38,16 +38,7 @@ Use the following steps to begin utilizing the models and examining the project 
 
 Right now we have a robust machine learning model, but our ultimate future goal is to develop a real-time fraud detection system equipped with continuous monitoring capabilities. This system will enable timely identification and prevention of fraudulent activities, further enhancing the security of online transactions.
 
-We welcome community contributions to improve and sustain the project. 
 
-GitHub Accounts
----
-Users can reach out to our team through our GitHub accounts with any feedback they may have:
-
-1. shravya22rvu
-2. sunkesulahimaja
-3. ChinthalaUpagnaReddy
-4. kotnadamuktha04
 
 We appreciate your interest in our resource and welcome your participation!
 
